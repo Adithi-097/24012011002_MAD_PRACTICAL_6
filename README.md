@@ -142,7 +142,12 @@ The project contains animation resources in the appropriate `res` folders, inclu
 6. The heart icon starts its frame-by-frame animation.
 7. The user can interact with the Create Alarm and Cancel Alarm buttons.
 
-## Conclusion
+|<img width="300" height="700" alt="image" src="https://github.com/user-attachments/assets/fa68a74d-7d39-4cd0-b035-9259c02263ba" />|<img width="300" height="700" alt="image" src="https://github.com/user-attachments/assets/9a855b70-e564-4c56-819f-3eb6a5a6b0ca" />|<img width="300" height="700" alt="image" src="https://github.com/user-attachments/assets/c8af1a22-ddfd-43f7-856f-3d8e229dd7cb" />|
 
+
+
+
+
+## Conclusion
 This practical demonstrates how Android applications can use Frame-by-Frame Animation, Twin Animation, Splash Screens, Gradient Drawables, and Edge-to-Edge UI to create an interactive and visually animated application.
 
